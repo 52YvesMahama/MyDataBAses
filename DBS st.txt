@@ -1,0 +1,13 @@
+Statements for Opening 
+MySql in Blackscreen (Display) Console
+
+
+cd\
+
+cd xampp
+
+cd mysql
+
+cd bin
+
+mysql -u root -p -h 127.0.0.1
